@@ -10,6 +10,4 @@
 
 [GitHub Webpage Code CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-[Save some bats!](https://www.batcon.org)
-
-Listing 20
+[Save some bats!](https://www.batcon.org) I like bats.
