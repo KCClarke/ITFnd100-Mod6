@@ -3,6 +3,8 @@
 # Module06 Website
 ---
 
+![resize n crop](https://user-images.githubusercontent.com/125520296/220206412-ddb407dc-a12b-4ae2-9280-b995d125d1ad.png)
+
 
 [Google Homepage](https://www.google.com "Google's Homepage")
 
