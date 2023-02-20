@@ -3,7 +3,11 @@
 # Module06 Website
 ---
 
-:)
+            /|___|\
+/\/\/\/\/\/\|^ m ^|/\/\/\/\/\/\
+            |     |
+             \___/
+            /     \  <A bat!
 
 [Google Homepage](https://www.google.com "Google's Homepage")
 
